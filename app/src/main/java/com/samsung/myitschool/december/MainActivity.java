@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
         //Two plus two is four = quick math
         System.out.print("DASIP WAS HERE!");
-
+        System.out.print("DIMA WAS HERE TOO!");
     }
 
 
